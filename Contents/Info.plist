@@ -10,5 +10,7 @@
 	<string>Markdown</string>
 	<key>isDashDocset</key>
 	<true/>
+	<key>dashIndexFilePath</key>
+	<string>syntax.html</string>
 </dict>
 </plist>
